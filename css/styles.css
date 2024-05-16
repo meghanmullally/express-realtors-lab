@@ -22,6 +22,11 @@ li {
     margin-left: 8px;
 }
 
+lo {
+    padding: 4px;
+    margin-left: 8px;
+    text-decoration: underline;
+}
 .house-card {
     border: 1px solid black;
     border-radius: 5px;
